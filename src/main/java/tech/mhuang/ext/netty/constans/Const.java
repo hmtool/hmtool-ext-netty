@@ -10,12 +10,6 @@ package tech.mhuang.ext.netty.constans;
  * @since 1.0.0
  */
 public class Const {
-
-	public static final int P0100 = 0x0100;//登录
-	
-	public static final int P0002 = 0x0002;//心跳
-	
-	public static final int P0802 = 0x0802;//心跳回复
 	
 	public static final int m1 = 10000000;
 	public static final int a1 = 20000000;
