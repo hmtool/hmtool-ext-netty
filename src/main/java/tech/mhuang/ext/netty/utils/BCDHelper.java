@@ -7,7 +7,7 @@ import java.io.UnsupportedEncodingException;
  * BCD码工具类
  *
  * @author mhuang
- * @since TODO 这里填写上线的版本号
+ * @since 1.0.0
  */
 public class BCDHelper {
 
